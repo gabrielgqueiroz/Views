@@ -1,3 +1,15 @@
 <resources>
     <string name="app_name">Views</string>
+    <string name="preencha_seus_dados">Preencha seus dados</string>
+    <string name="e_mail">E-mail</string>
+    <string name="sobrenome">Sobrenome</string>
+    <string name="nome">Nome</string>
+    <string name="feminino">Feminino</string>
+    <string name="masculino">Masculino</string>
+    <string name="salvar">Salvar</string>
+    <string name="limpar">Limpar</string>
+    <string-array name="estado_civil">
+        <item>Casado</item>
+        <item>Solteiro</item>
+    </string-array>
 </resources>
